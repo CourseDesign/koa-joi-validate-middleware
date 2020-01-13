@@ -59,6 +59,13 @@ const schema = {
 const validator = validateMiddleware.create(schema, errorCallback);
 ```
 
+#### errorCallback
+
+```js
+function errorCallback(ctx, error) {
+}
+```
+
 ​    
 
 ### Use Validate Middleware
