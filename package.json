@@ -1,6 +1,6 @@
 {
   "name": "koa-joi-validate-middleware",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Validate middleware generator using Joi",
   "main": "lib",
   "scripts": {
@@ -24,7 +24,7 @@
     "email": "kdpark023@gmail.com"
   },
   "dependencies": {
-    "joi-validate-middleware": "^1.0.2",
-    "koa-params-extractor": "^1.0.2"
+    "joi-validate-middleware": "^1.0.4",
+    "koa-params-extractor": "^1.0.3"
   }
 }
