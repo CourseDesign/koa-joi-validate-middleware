@@ -24,16 +24,6 @@ const validateMiddleware = require('koa-joi-validate-middleware');
 
 ​    
 
-### Set Joi
-
-```js
-const joi = require('joi');
-
-validateMiddleware.joi.set(joi);
-```
-
-​    
-
 ### Create Validate Middleware
 
 ```js
