@@ -28,22 +28,26 @@ const validateMiddleware = require('koa-joi-validate-middleware');
 
 ```js
 const schema = {
-  headers: {
-    // Request headers Joi validation object
-  },
-  query: {
-    // URL query string Joi validation object
-  },
-  params: {
-    // URL path parameters Joi validation object
-    id: joi.string().required(),
-  },
-  body: {
-    // POST body Joi validation object
-  },
-  files: {
-    // multipart files Joi validation object
-  }
+  // Request headers Joi validation object
+  headers: Joi.obejct({
+  }),
+
+  // URL query string Joi validation object
+  query: Joi.obejct({
+  }),
+
+  // URL path parameters Joi validation object
+  params: Joi.obejct({
+    id: Joi.string().required(),
+  }).required(),
+
+  // POST body Joi validation object
+  body: Joi.obejct({
+  }),
+
+  // Multipart files Joi validation object
+  files: Joi.obejct({
+  })
 };
 
 const validator = validateMiddleware.create(schema, errorCallback);
