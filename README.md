@@ -44,10 +44,6 @@ const schema = {
   // POST body Joi validation object
   body: Joi.obejct({
   }),
-
-  // Multipart files Joi validation object
-  files: Joi.obejct({
-  })
 };
 
 const validator = validateMiddleware.create(schema, errorCallback);
