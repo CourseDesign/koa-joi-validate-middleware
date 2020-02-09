@@ -1,5 +1,5 @@
 # Koa Joi Validate Middleware
-
+![](https://img.shields.io/npm/dm/koa-joi-validate-middleware.png?style=flat-square)  
 **Validate middleware generator using *Joi***
 
 Easily create [Koa](https://github.com/koajs/koa) middleware for validate with [Joi](https://github.com/hapijs/joi).

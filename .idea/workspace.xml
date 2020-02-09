@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="096903cc-4b0e-43dc-bb12-36bc07bb4cde" name="Default Changelist" comment="npm publish 1.1.3">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WLY0Vi3Vxi01OhAjUkwKcnFukT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.14.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../koa-middleware-adapter" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v12.14.1/bin/node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="096903cc-4b0e-43dc-bb12-36bc07bb4cde" name="Default Changelist" comment="" />
+      <created>1578930118837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578930118837</updated>
+      <workItem from="1578930121275" duration="4848000" />
+      <workItem from="1578979808227" duration="2520000" />
+      <workItem from="1578984886375" duration="758000" />
+      <workItem from="1578986147007" duration="278000" />
+      <workItem from="1578987765210" duration="954000" />
+      <workItem from="1578989096997" duration="621000" />
+      <workItem from="1578993740784" duration="610000" />
+      <workItem from="1578997708397" duration="1834000" />
+      <workItem from="1579000765726" duration="157000" />
+      <workItem from="1579104063383" duration="1296000" />
+      <workItem from="1580378507172" duration="28000" />
+      <workItem from="1581141330414" duration="19000" />
+      <workItem from="1581241298556" duration="22000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1578931543701</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578931543701</updated>
+    </task>
+    <task id="LOCAL-00002" summary="npm publish 1.0.1">
+      <created>1578934356428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578934356428</updated>
+    </task>
+    <task id="LOCAL-00003" summary="npm publish 1.0.2">
+      <created>1578934425140</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578934425140</updated>
+    </task>
+    <task id="LOCAL-00004" summary="npm publish 1.0.3">
+      <created>1578984011340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578984011340</updated>
+    </task>
+    <task id="LOCAL-00005" summary="npm publish 1.0.4">
+      <created>1578985036867</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1578985036867</updated>
+    </task>
+    <task id="LOCAL-00006" summary="npm publish 1.0.5">
+      <created>1578988266205</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578988266205</updated>
+    </task>
+    <task id="LOCAL-00007" summary="npm publish 1.1.1">
+      <created>1578998096307</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578998096307</updated>
+    </task>
+    <task id="LOCAL-00008" summary="npm publish 1.1.2">
+      <created>1578998891491</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578998891491</updated>
+    </task>
+    <task id="LOCAL-00009" summary="npm publish 1.1.3">
+      <created>1579000850620</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579000850620</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <MESSAGE value="npm publish 1.0.1" />
+    <MESSAGE value="npm publish 1.0.2" />
+    <MESSAGE value="npm publish 1.0.3" />
+    <MESSAGE value="npm publish 1.0.4" />
+    <MESSAGE value="npm publish 1.0.5" />
+    <MESSAGE value="npm publish 1.1.1" />
+    <MESSAGE value="npm publish 1.1.2" />
+    <MESSAGE value="npm publish 1.1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm publish 1.1.3" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="274" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578983515487">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="274" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578983515487" />
+    <state x="535" y="110" width="839" height="829" key="CommitChangelistDialog2" timestamp="1579105820876">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="535" y="110" width="839" height="829" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1579105820876" />
+    <state x="743" y="286" width="424" height="478" key="FileChooserDialogImpl" timestamp="1580378533102">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="743" y="286" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1580378533102" />
+    <state width="1893" height="293" key="GridCell.Tab.0.bottom" timestamp="1579000921878">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579000921878" />
+    <state width="1893" height="293" key="GridCell.Tab.0.center" timestamp="1579000921876">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="293" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579000921876" />
+    <state width="1893" height="293" key="GridCell.Tab.0.left" timestamp="1579000921875">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="293" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579000921875" />
+    <state width="1893" height="293" key="GridCell.Tab.0.right" timestamp="1579000921877">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1893" height="293" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579000921877" />
+    <state x="449" y="163" key="SettingsEditor" timestamp="1578983432133">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="163" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578983432133" />
+    <state x="492" y="117" width="800" height="525" key="Vcs.Push.Dialog.v2" timestamp="1579000852200">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="492" y="117" width="800" height="525" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1579000852200" />
+    <state x="733" y="444" width="443" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578983988088">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="733" y="444" width="443" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080@0.0.1920.1080" timestamp="1578983988088" />
+    <state x="624" y="242" key="run.anything.popup" timestamp="1578932172971">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="242" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1578932172971" />
+  </component>
+</project>
