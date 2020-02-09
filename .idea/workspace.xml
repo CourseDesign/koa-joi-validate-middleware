@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="096903cc-4b0e-43dc-bb12-36bc07bb4cde" name="Default Changelist" comment="npm publish 1.1.3">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="096903cc-4b0e-43dc-bb12-36bc07bb4cde" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/create-validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/create-validate.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +81,8 @@
       <workItem from="1579104063383" duration="1296000" />
       <workItem from="1580378507172" duration="28000" />
       <workItem from="1581141330414" duration="19000" />
-      <workItem from="1581241298556" duration="22000" />
+      <workItem from="1581241298556" duration="842000" />
+      <workItem from="1581264931341" duration="20000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1578931543701</created>
@@ -151,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579000850620</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="npm publish 1.1.4">
+      <created>1581241337597</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1581241337598</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +170,8 @@
     <MESSAGE value="npm publish 1.1.1" />
     <MESSAGE value="npm publish 1.1.2" />
     <MESSAGE value="npm publish 1.1.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="npm publish 1.1.3" />
+    <MESSAGE value="npm publish 1.1.4" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm publish 1.1.4" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -177,10 +181,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="693" y="274" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578983515487" />
-    <state x="535" y="110" width="839" height="829" key="CommitChangelistDialog2" timestamp="1579105820876">
+    <state x="535" y="110" width="839" height="829" key="CommitChangelistDialog2" timestamp="1581241337311">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="535" y="110" width="839" height="829" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1579105820876" />
+    <state x="535" y="110" width="839" height="829" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581241337311" />
     <state x="743" y="286" width="424" height="478" key="FileChooserDialogImpl" timestamp="1580378533102">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -205,10 +209,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="449" y="163" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578983432133" />
-    <state x="492" y="117" width="800" height="525" key="Vcs.Push.Dialog.v2" timestamp="1579000852200">
+    <state x="492" y="117" width="800" height="525" key="Vcs.Push.Dialog.v2" timestamp="1581241338961">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="492" y="117" width="800" height="525" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1579000852200" />
+    <state x="492" y="117" width="800" height="525" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1581241338961" />
     <state x="733" y="444" width="443" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578983988088">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
