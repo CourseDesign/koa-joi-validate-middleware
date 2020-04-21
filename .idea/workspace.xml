@@ -23,7 +23,6 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -52,18 +51,6 @@
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -91,6 +78,8 @@
       <workItem from="1581266199822" duration="598000" />
       <workItem from="1581305585843" duration="8000" />
       <workItem from="1581436303799" duration="619000" />
+      <workItem from="1587107177189" duration="694000" />
+      <workItem from="1587125389188" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1578931543701</created>
@@ -169,11 +158,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581264974566</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="npm publish 1.1.6">
+      <created>1587107260273</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587107260273</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
@@ -187,7 +183,8 @@
     <MESSAGE value="npm publish 1.1.3" />
     <MESSAGE value="npm publish 1.1.4" />
     <MESSAGE value="npm publish 1.1.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="npm publish 1.1.5" />
+    <MESSAGE value="npm publish 1.1.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="npm publish 1.1.6" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -197,10 +194,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="693" y="274" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1578983515487" />
-    <state x="535" y="110" width="839" height="829" key="CommitChangelistDialog2" timestamp="1581264974324">
+    <state x="535" y="110" width="890" height="829" key="CommitChangelistDialog2" timestamp="1587107260040">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="535" y="110" width="839" height="829" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1581264974324" />
+    <state x="535" y="110" width="890" height="829" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1587107260040" />
     <state x="743" y="286" width="424" height="478" key="FileChooserDialogImpl" timestamp="1581436321885">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -225,10 +222,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="449" y="163" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1578983432133" />
-    <state x="492" y="117" width="800" height="525" key="Vcs.Push.Dialog.v2" timestamp="1581264975774">
+    <state x="492" y="117" width="800" height="525" key="Vcs.Push.Dialog.v2" timestamp="1587107261787">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="492" y="117" width="800" height="525" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1581264975774" />
+    <state x="492" y="117" width="800" height="525" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1587107261787" />
     <state x="733" y="444" width="443" height="162" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578983988088">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
