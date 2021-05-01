@@ -25,6 +25,6 @@
   },
   "dependencies": {
     "joi-validate-middleware": "^1.0.4",
-    "koa-params-extractor": "^1.0.3"
+    "koa-params-extractor": "^3.9.7"
   }
 }
